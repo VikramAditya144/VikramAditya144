@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQG3cWu2AHBhRQ/profile-displaybackgroundimage-shrink_350_1400/0/1721147851239?e=1727308800&v=beta&t=EEV3GZSLmvstgbWpN4VYAPxHn5DMg3t5gXzhOPalZUI)
+
 <h1 align="center">Hi 👋, I'm Vikramaditya</h1>
 <h3 align="center">Building Tomorrow's World with Today's Code</h3>
 
