@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vikramaditya</h1>
 <h3 align="center">Building Tomorrow's World with Today's Code</h3>
 
-- 👨‍💻 All of my projects are available at [https://vikramaditya-rho.vercel.app/](https://vikramaditya-rho.vercel.app/)
 
 - 📫 How to reach me **vikramaditya1533@gmail.com**
 
